@@ -1,0 +1,42 @@
+Go to discord for developers
+Make a new application
+Make a new bot
+
+How to add the bot, 
+Got to discord permission calculators
+https://discordapi.com/permissions.html
+select permissions
+insert client id from general information
+creates a link that lets you add the bot to any server you want
+
+go to repl.It
+create node.js project
+
+ctrl + shift + s (get rid of screencastify)
+npm install discord.js
+npm init 
+create the json file
+
+write and run file1.
+
+Congrats, your bot is now online! Now let's do some basic commands
+
+write out file 2
+
+So now we have our commands, but this giant if tree gets very slow after a while, so let's do some advanced command handling
+
+write out file 3
+
+While we're in the process of trimming the code, let's hide our token and create a config file
+
+write out file 4 and .env file
+
+Now lets do some role adding
+get role id by doing /@roleName
+
+write out file 5
+
+now lets do some reactions
+also learning about async
+
+write out file 6
